@@ -1,7 +1,7 @@
 from flask import Flask
 
 app = Flask(__name__)
-"""Добавил новый комментарий 2"""
+"""Добавил новый комментарий 1"""
 
 
 @app.route('/')
